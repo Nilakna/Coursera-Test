@@ -1,0 +1,94 @@
+<style type="text/css">
+
+	* {
+	box-sizing: border-box;
+
+}
+	
+	h1.text
+	{
+		background-color:gray;
+		padding-top: 20px;
+  		padding-right: 30px;
+  		padding-bottom: 20px;
+  		padding-left: 80px;
+  		margin-top:10px;
+  		margin-left:10px;
+  		margin-bottom: 10px;
+  		margin-right: 10px;
+	}
+ 	
+ 	/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+	
+	.text
+	{
+		margin: 10px;
+
+	}
+	
+	.box
+	{
+		background-color:gray;
+		padding: 10px 10px 10px 10px;
+
+	}
+
+	
+	#t1{
+		background-color: gray;
+		color:black;
+		}
+
+	#t2{
+		background-color: gray;
+		color:black;
+		}
+
+	#t3{
+		background-color: gray;
+		color:black;
+		}
+
+	#p1 {
+		background-color: gray;
+		position: relative;
+		top:0px;
+		left:0px;
+		}
+
+	#p2 {
+		background-color: gray;
+		position: relative;
+		top:0px;
+		left:0px;
+		}
+
+	#p3 {
+		background-color: gray;
+		position: relative;
+		top:0px;
+		left:0px;
+		}
+
+
+
+</style>
