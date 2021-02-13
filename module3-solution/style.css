@@ -8,14 +8,14 @@
 	
 
 	#header-nav {
-		background-color: gray;
+		background-color: green;
 		border-radius:0;
 		border: 0;
 		border-bottom:3px solid black;
 	}
 	h1.text
 	{
-		background-color:gray;
+		background-color:green;
 		padding-top: 20px;
   		padding-right: 30px;
   		padding-bottom: 10px;
@@ -52,24 +52,24 @@
 	
 	.box
 	{
-		background-color:gray;
+		background-color:pink;
 		padding: 10px 10px 10px 10px;
 
 	}
 
 	
 	#t1{
-		background-color: gray;
+		background-color:pink;
 		color:black;
 		}
 
 	#t2{
-		background-color: gray;
+		background-color:red;
 		color:black;
 		}
 
 	#t3{
-		background-color: gray;
+		background-color:yellow;
 		color:black;
 		}
 
